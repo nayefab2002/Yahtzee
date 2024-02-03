@@ -1,0 +1,17 @@
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\bin\Debug\net6.0-windows\YahtzeeGame.exe
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\bin\Debug\net6.0-windows\YahtzeeGame.deps.json
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\bin\Debug\net6.0-windows\YahtzeeGame.runtimeconfig.json
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\bin\Debug\net6.0-windows\YahtzeeGame.dll
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\bin\Debug\net6.0-windows\YahtzeeGame.pdb
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\YahtzeeGame.csproj.AssemblyReference.cache
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\YahtzeeGame.Form1.resources
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\YahtzeeGame.csproj.GenerateResource.cache
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\YahtzeeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\YahtzeeGame.AssemblyInfoInputs.cache
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\YahtzeeGame.AssemblyInfo.cs
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\YahtzeeGame.csproj.CoreCompileInputs.cache
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\YahtzeeGame.dll
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\refint\YahtzeeGame.dll
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\YahtzeeGame.pdb
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\YahtzeeGame.genruntimeconfig.cache
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\YahtzeeGame\YahtzeeGame\obj\Debug\net6.0-windows\ref\YahtzeeGame.dll
